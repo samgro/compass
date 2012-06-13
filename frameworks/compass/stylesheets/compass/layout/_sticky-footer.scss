@@ -16,6 +16,7 @@
     height: 100%;
     margin-bottom: -$footer-height;
     #{$root-footer-selector} {
+      clear: both;
       height: $footer-height; } }
   #{$footer-selector} {
     clear: both;
